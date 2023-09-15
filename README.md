@@ -1,4 +1,4 @@
-## 📌 See more detail about project on pdf. file above ☝️☝️
+## 📌 See more detail about this project on pdf. file above ☝️ or link attached 👉
 # 🍒Introduction
 This report is intended for the current status of Inventory by category, quantity of each product in Stock of each location (available & coming out of stock). Analysis of the optimization problem of Inventory and Stock.
 
